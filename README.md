@@ -119,7 +119,7 @@ A passionate **Advanced Automotive Engineering** student from HUST, blending the
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🗺️ HustMap - Digital Campus Revolution</h3>
+      <h3 align="center">🗺️ HUSTMAP - Digital Campus Map for HUSTers</h3>
       <p align="center">
         <strong>Founder & Lead DevOps</strong> | 🌐 <strong>Live:</strong> <a href="https://hustmap.com">hustmap.com</a>
       </p>
