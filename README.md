@@ -33,9 +33,48 @@ A passionate **Advanced Automotive Engineering** student from HUST, blending the
 ### 📊 **My GitHub Activity**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanhpham&theme=radical&show_icons=true&border_color=FF1801&title_color=FF1801&icon_color=0600AA" alt="GitHub stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhpham&layout=compact&theme=radical&border_color=FF1801&title_color=FF1801" alt="Top Languages" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vanhpham&theme=radical&border=FF1801&stroke=FF1801&ring=FF1801&fire=0600AA" alt="GitHub Streak" width="70%"/>
+  
+  <!-- GitHub Stats with Dynamic Theme -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=vanhpham&show_icons=true&theme=dark&bg_color=0d1117&border_color=FF1801&title_color=FF1801&icon_color=0600AA&text_color=c9d1d9&hide_border=false"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=vanhpham&show_icons=true&theme=default&bg_color=ffffff&border_color=FF1801&title_color=FF1801&icon_color=0600AA&text_color=24292f&hide_border=false"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=vanhpham&show_icons=true&theme=dark&bg_color=0d1117&border_color=FF1801&title_color=FF1801&icon_color=0600AA&text_color=c9d1d9" alt="GitHub stats" width="49%"/>
+  </picture>
+  
+  <!-- Top Languages with Dynamic Theme -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhpham&layout=compact&theme=dark&bg_color=0d1117&border_color=FF1801&title_color=FF1801&text_color=c9d1d9&hide_border=false"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhpham&layout=compact&theme=default&bg_color=ffffff&border_color=FF1801&title_color=FF1801&text_color=24292f&hide_border=false"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanhpham&layout=compact&theme=dark&bg_color=0d1117&border_color=FF1801&title_color=FF1801&text_color=c9d1d9" alt="Top Languages" width="49%"/>
+  </picture>
+  
+  <br><br>
+  
+  <!-- GitHub Streak with Dynamic Theme -->
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=vanhpham&theme=dark&background=0d1117&border=FF1801&stroke=FF1801&ring=FF1801&fire=0600AA&currStreakLabel=FF1801&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=vanhpham&theme=default&background=ffffff&border=FF1801&stroke=FF1801&ring=FF1801&fire=0600AA&currStreakLabel=FF1801&sideNums=24292f&sideLabels=24292f&dates=24292f"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=vanhpham&theme=dark&background=0d1117&border=FF1801&stroke=FF1801&ring=FF1801&fire=0600AA&currStreakLabel=FF1801&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="70%"/>
+  </picture>
+  
 </div>
 
 ---
