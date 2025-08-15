@@ -11,7 +11,7 @@
 
 <div align="center">
 
-### Hi there, I'm Phạm Việt Vanh (PVA) 👋
+### Hi there, I'm Phạm Việt Anh (PVA) 👋
 
 A passionate **Advanced Automotive Engineering** student from HUST, blending the high-speed precision of **Formula 1** with the world of **Embedded Systems** and **DevOps**.
 
@@ -73,7 +73,7 @@ A passionate **Advanced Automotive Engineering** student from HUST, blending the
       media="(prefers-color-scheme: light)"
     />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=vanhpham&theme=dark&background=0d1117&border=FF1801&stroke=FF1801&ring=FF1801&fire=0600AA&currStreakLabel=FF1801&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="70%"/>
-  </picture>
+  </picture>  
   
 </div>
 
