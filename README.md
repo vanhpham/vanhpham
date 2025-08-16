@@ -97,7 +97,9 @@ A passionate **Advanced Automotive Engineering** student from HUST, blending the
 
 **Web, Backend & DevOps**  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,docker,nginx,githubactions" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,docker,nginx,githubactions,cloudflare" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
 **AI/ML & Databases**  
