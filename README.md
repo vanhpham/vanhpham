@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1801,30:0600AA,70:FF1801,100:0600AA&height=220&text=Vanh%20Phạm&fontSize=65&fontColor=FFFFFF&fontAlignY=35&animation=twinkling&desc=🏎️%20Simply%20Lovely%20🏎️&descSize=18&descAlignY=65&descColor=FFFFFF&stroke=FFFFFF&strokeWidth=1" />
   
   <!-- Dynamic Typing Animation with F1 Theme -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Formula1&weight=700&size=24&duration=3000&pause=1000&color=FF1801&center=true&vCenter=true&width=700&lines=%22Simply+Lovely%22+Engineering+🏎️;Advanced+Automotive+%40+HUST;Vice+Leader+%40+BK-AUTO+Lab;CAN+Bus+%7C+UDS+Protocol+Expert;Seeking+Internship+Opportunities+⚡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Formula1&weight=700&size=24&duration=3000&pause=1000&color=FF1801&center=true&vCenter=true&width=700&lines=%22Simply+Lovely%22+Engineering+🏎️;Advanced+Automotive+%40+HUST;Vice+Leader+%40+BK-AUTO+Lab;CAN+Bus+%7C+UDS+Protocol+researcher;Seeking+Internship+Opportunities+⚡" alt="Typing SVG" />
   
 
 
